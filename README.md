@@ -15,9 +15,9 @@ import ftm from 'from-this-moment' (or)
 
 var ftm = require('from-this-moment')
 
-**_ftm(dateTo,dateFrom)
+**_ftm(dateTo, dateFrom)_**
 
-by default dateFrom is referenced to the current timedate._**
+**_by default dateFrom is referenced to the current timedate._**
 
 ftm('Sat Mar 24 2019 0:32:01 GMT+0530 (India Standard Time)');
 
