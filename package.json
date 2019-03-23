@@ -1,0 +1,23 @@
+{
+  "name": "from-now",
+  "version": "1.0.0",
+  "description": "a lightweight javascript library to get the date difference from now",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdkpavankumar/from-now.git"
+  },
+  "keywords": [
+    "from-now",
+    "date"
+  ],
+  "author": "pdk pavan kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pdkpavankumar/from-now/issues"
+  },
+  "homepage": "https://github.com/pdkpavankumar/from-now#readme"
+}
